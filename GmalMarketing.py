@@ -100,10 +100,17 @@ class App(ctk.CTk):
         self.txt_direitos_autorais.pack(fill="both", expand=True)
         self.txt_direitos_autorais.insert(
             "0.0",
-            "MIT LICENSE\n\n"
-            "Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.\n\n"
-            "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n"
-            "For more information, visit: https://opensource.org/licenses/MIT"
+            "CC BY-NC-SA 4.0 LICENSE\n\n"
+            "This software is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n"
+            "YOU ARE FREE TO:\n"
+            "- Share: Copy and redistribute the material in any medium or format.\n"
+            "- Adapt: Remix, transform, and build upon the material.\n\n"
+            "UNDER THE FOLLOWING TERMS:\n"
+            "- Attribution: You must give appropriate credit to the original author (glaudeslm).\n"
+            "- Non-Commercial: You may NOT use this material for commercial purposes or resale.\n"
+            "- ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.\n\n"
+            "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.\n\n"
+            "For more information, visit: https://creativecommons.org/licenses/by-nc-sa/4.0/"
         )
         self.txt_direitos_autorais.configure(state="disabled")
 
