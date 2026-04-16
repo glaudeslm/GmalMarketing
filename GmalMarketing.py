@@ -139,7 +139,7 @@ class App(ctk.CTk):
 
         self.footer_label = ctk.CTkLabel(
             self,
-            text="Open Source Project - MIT License",
+            text="Open Source Project - CC BY-NC-SA 4.0 License",
             font=("Segoe UI", 10),
             text_color="#5F6368",
         )
