@@ -292,4 +292,26 @@ This tool is designed for **legitimate email marketing purposes only**. Users ar
 
 **⭐ If this project helps you, please consider giving it a star on GitHub!**
 
+
 Made with ❤️ for the open-source community
+
+---
+
+## 🚀 Supercharge your Email Marketing with "MBOX Filtrador para Gmail"
+<img width="1366" height="768" alt="mbox" src="https://github.com/user-attachments/assets/bcfd2663-8eb4-4a09-847b-d3828990a454" />
+
+If you need a professional solution to manage and extract your Gmail contacts, check out our specialized web platform! 
+
+While this Python script automates your email sending, our SaaS handles the **lead extraction and data cleaning** process perfectly.
+
+### Why use MBOX Filtrador?
+*   **Easy MBOX Import:** Simply upload your Gmail backup files (Google Takeout) and let the system do the heavy lifting.
+*   **Smart Filtering:** Extract only the contacts that matter. Filter by date, specific keywords, or interaction types.
+*   **Ready-to-Send CSV:** Automatically generate CSV files that are 100% compatible with this script and other CRM tools.
+*   **Cloud Based:** No Python environment or coding required. Just upload, filter, and download.
+
+[![MBOX Filtrador Dashboard](https://your-image-link-here.com/banner.png)](https://mbox-gmail-vercel.app/)
+
+### [👉 Access MBOX Filtrador para Gmail now](https://mbox-gmail.vercel.app/)
+
+---
