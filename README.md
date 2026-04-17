@@ -310,8 +310,6 @@ While this Python script automates your email sending, our SaaS handles the **le
 *   **Ready-to-Send CSV:** Automatically generate CSV files that are 100% compatible with this script and other CRM tools.
 *   **Cloud Based:** No Python environment or coding required. Just upload, filter, and download.
 
-[![MBOX Filtrador Dashboard](https://your-image-link-here.com/banner.png)](https://mbox-gmail-vercel.app/)
-
 ### [👉 Access MBOX Filtrador para Gmail now](https://mbox-gmail.vercel.app/)
 
 ---
