@@ -226,14 +226,9 @@ Contributions are welcome! Here's how to contribute:
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR) license.
 
-The MIT License allows you to:
-- ✅ Use for commercial and private purposes
-- ✅ Modify and distribute the code
-- ✅ Include in your own projects
-
-Just include a copy of the original license!
+This means you can use and modify the code for personal use, but **resale or commercial use of this software is expressly prohibited.**
 
 ## Disclaimer ⚠️
 
