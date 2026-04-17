@@ -1,4 +1,5 @@
 # AI Email Marketing Assistant
+<img width="1366" height="725" alt="emailmarketing_gmail" src="https://github.com/user-attachments/assets/c249b836-02e2-4b23-9ce8-295346301aa4" />
 
 A powerful, open-source desktop application for generating and sending personalized emails using AI. Powered by **Groq API** and **CustomTkinter**, this tool helps you create professional email campaigns with AI-generated content while respecting rate limits and maintaining a human-like sending pattern.
 
